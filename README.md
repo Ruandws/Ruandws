@@ -19,14 +19,14 @@
 
   - 💬 I am 19 years old, currently living in Brazil. I have moderate ability to speak English and I'm studying the second and final year of my technology degree in Systems Analysis and Development
   - ⚡ I like listening to documentaries about great personalities, those who changed the world, and understanding how they did it. I like reading philosophy, from classical to medieval.I believe that our personal interests contribute to a more refined perception of things and problem-solving. \o/
-</details>
+ </details>
 
 <!-- Links -->
-[![LinkedIn][https://www.linkedin.com/in/christian-oliveira-925532257/](https://www.linkedin.com/in/ruanvictorja/))
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/variablebee)
+[LinkedIn](https://www.linkedin.com/in/ruanvictorja/)
+                
 
 <!-- GithubStats -->
-![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=variablebee&show_icons=true&theme=gotham)
+![Ruandws GitHub stats](https://github-readme-stats.vercel.app/api?username=ruandws&show_icons=true&theme=gotham)
 
 <!-- Portfolio -->
 ## Portfolio:
