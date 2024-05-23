@@ -10,7 +10,7 @@
 
   - 🌱 I’m currently studying Web Programming with Python and JavaScript at Harvard [<img align="center" alt="html5" src="https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white" />](https://www.edx.org/learn/web-development/harvard-university-cs50-s-web-programming-with-python-and-javascript)
 
-  - 🔭 I am looking for my first job opportunity. My dream is to one day work with AI and Machine Learning.
+  - 🔭 I am looking for my first job opportunity. My dream is to one day work as a Back-end Developer , using languages as PHP, Python and Mysql.
 </p>
 
 <!-- Dropdown -->
@@ -22,18 +22,16 @@
  </details>
 
 <!-- Links -->
-[LinkedIn](https://www.linkedin.com/in/ruanvictorja/)
+[LinkedIn](https://www.linkedin.com/in/victordjs/)
                 
 
-<!-- GithubStats -->
-![Ruandws GitHub stats](https://github-readme-stats.vercel.app/api?username=ruandws&show_icons=true&theme=gotham)
+
 
 <!-- Portfolio -->
 ## Portfolio:
-- [Python - Exploratory data analysis](https://github.com/VariableBee/EDA_Loggi)
-- [Google Data Studio - COVID-19 Interactive Dashboard](https://github.com/VariableBee/COVID_19_DASHBOARD)
-- [SQL - Querying and analyzing data with AWS Athena](https://github.com/VariableBee/AWS_Athena_Queries)
-- [C - Registration and query system](https://github.com/VariableBee/Cartorio)
+- [PHP, Python and MySQL - Web application for controlling therapy session schedules ]
+- [HTML5, CSS3, MySQL and PHP - Tracking Shipment System ]
+
 
 <!-- GIF -->
 <p align="left">
