@@ -8,9 +8,9 @@
 <p>
   Hi 👋, I'm Ruan Victor! A ambitious Computer science student from Brazil.
 
-  - 🌱 I’m currently studying Web Programming with Python and JavaScript at Harvard [<img align="center" alt="html5" src="https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white" />](https://www.edx.org/learn/web-development/harvard-university-cs50-s-web-programming-with-python-and-javascript)
+  - 🌱 I’m currently studying Web Programming with Java SpringBoot and PostgreSQL at Harvard [<img align="center" alt="html5" src="https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white" />](https://www.edx.org/learn/web-development/harvard-university-cs50-s-web-programming-with-python-and-javascript)
 
-  - 🔭 I am looking for my first job opportunity. My dream is to one day work as a Back-end Developer , using languages as PHP, Python and Mysql.
+  - 🔭 I am looking for my first job opportunity. My dream is to one day work as a Back-end Developer , using languages as Java and Sql.
 </p>
 
 <!-- Dropdown -->
