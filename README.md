@@ -28,8 +28,7 @@
 
 <!-- Portfolio -->
 ## Portfolio:
-- [PHP, Python and MySQL - Web application for controlling therapy session schedules ]
-- [HTML5, CSS3, MySQL and PHP - Tracking Shipment System ]
+- [Java Spring Boot and PostgreSQL - Web application for controlling therapy session schedules ]
 
 
 <!-- GIF -->
