@@ -8,15 +8,15 @@
 <p>
   Hi 👋, I'm Ruan Victor! A ambitious Computer science student from Brazil.
 
-  - 🌱 I’m currently studying Web Programming with Java SpringBoot and PostgreSQL 
-  - 🔭 I am looking for my first job opportunity. My dream is to one day work as a Back-end Developer , using languages as Java and Sql.
+  - 🌱 I’m currently studying Web Programming with Java SpringBoot and PostgreSQL.
+  - 🔭 I'm alrady working as Support Center Analyst(Helpdesk).
 </p>
 
 <!-- Dropdown -->
 <details>
   <summary>👨‍💻 More about me</summary>
 
-  - 💬 I am 19 years old, currently living in Brazil. I have moderate ability to speak English and I'm studying the second and final year of my technology degree in Systems Analysis and Development
+  - 💬 I am 20 years old, currently living in Brazil. I have moderate ability to speak English and I'm studying the second and final year of my technology degree in Systems Analysis and Development
   - ⚡ I like listening to documentaries about great personalities, those who changed the world, and understanding how they did it. I like reading philosophy, from classical to medieval.I believe that our personal interests contribute to a more refined perception of things and problem-solving. \o/
  </details>
 
@@ -28,8 +28,7 @@
 
 <!-- Portfolio -->
 ## Portfolio:
-- [Java Spring Boot and PostgreSQL - Web application for controlling therapy session schedules ]
-
+- [Mobile Android JetPack Compose - QrCode Scanner and export to external csv]
 
 <!-- GIF -->
 <p align="left">
