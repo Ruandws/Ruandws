@@ -28,7 +28,7 @@
 
 <!-- Portfolio -->
 ## Portfolio:
-- [Mobile Android JetPack Compose - QrCode Scanner and export to external csv]
+- [Mobile Android JetPack Compose - QrCode Scanner and export to external csv(https://github.com/Ruandws/LacerdaScanner120)]
 
 <!-- GIF -->
 <p align="left">
