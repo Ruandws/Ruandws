@@ -9,7 +9,7 @@
   Hi 👋, I'm Ruan Victor! A ambitious Computer science student from Brazil.
 
   - 🌱 I’m currently studying Web Programming with Java SpringBoot and PostgreSQL.
-  - 🔭 I'm alrady working as Support Center Analyst(Helpdesk).
+  - 🔭 I'm already working as Support Center Analyst(Helpdesk).
 </p>
 
 <!-- Dropdown -->
@@ -42,6 +42,10 @@
     <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
     <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt="Kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
+    <img align="center" alt="Spring Boot" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
+
+
     
   
   </div>
