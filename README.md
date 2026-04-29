@@ -1,66 +1,121 @@
-<!--título-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hello World</h1></summary>
-</div>
+<!-- Título -->
+<h1 align="center">Hello World 👋</h1>
 
 <!-- Presentation -->
-<p>
-  Hi 👋, I'm Ruan Victor! A ambitious Software Engineering student from Brazil.
-
-  - 🌱 I’m currently studying Web Automations with Python and its dependencies 
-  - 🔭 I'm already working as Support Center Analyst(Helpdesk)) on a University Hospital!
+<p align="center">
+  Hi 👋, I'm <strong>Ruan Victor</strong><br>
+  🚀 Software Engineering student from Brazil
 </p>
 
-<!-- Dropdown -->
+<p align="center">
+  🌱 Studying <strong>Web Automations with Python</strong><br>
+  🔭 Working as <strong>Support Center Analyst (Helpdesk)</strong> in a University Hospital
+</p>
+
+---
+
+<!-- Sobre -->
 <details>
   <summary>👨‍💻 More about me</summary>
 
-  - 💬 I am 21 years old, currently living in Brazil. I have moderate ability to speak English and I'm studying the second and final year of my technology degree in Systems Analysis and Development
-  - ⚡ I like listening to documentaries about great personalities, those who changed the world, and understanding how they did it. I like reading philosophy, from classical to medieval.I believe that our personal interests contribute to a more refined perception of things and problem-solving. \o/
- </details>
+- 💬 I'm 21 years old, living in Brazil  
+- 🎓 Final year in Systems Analysis and Development  
+- 🌍 Intermediate English (improving daily)  
+- ⚡ Passionate about philosophy, documentaries and great minds  
+- 🧠 I like understanding how people think and solve problems  
+
+</details>
+
+---
 
 <!-- Links -->
-[LinkedIn](https://www.linkedin.com/in/victordjs/)
-                
+## 🌐 Connect with me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victordjs/)
 
+---
 
+<!-- Projetos -->
+## 🚀 Projects
 
-<!-- Portfolio -->
-## Portfolio:
-- [Mobile Android JetPack Compose - QrCode Scanner and export to external csv(https://github.com/Ruandws/LacerdaScanner120)]
+### 🧠 Senna
+> **Automation Hub for Hospital Systems**
+
+- Built with **Python**
+- ⚙️ Playwright (automations)
+- 🖥️ CustomTkinter (interface)
+- 📊 Pandas (data processing)
+
+💡 *A centralized system designed to optimize repetitive workflows in hospital environments.*
+
+---
+
+### 📱 QR Code Scanner
+- Android App using **Jetpack Compose**
+- Reads QR Codes and exports data to CSV
+- Uses ZXing + Apache POI
+
+🔗 https://github.com/Ruandws/LacerdaScanner120
+
+---
 
 <!-- GIF -->
-<p align="left">
-  <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
+<p align="center">
+  <img src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" width="400px">
 </p>
 
+---
+
 ## 🔥 Skills
-<!-- Skills: Programming Languages -->
-  <div style="flex-basis: 48%;">
-    <h3>Programming Languages</h3>
-    <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-    <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="Kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
-   
 
+### 👨‍💻 Programming Languages
+<p>
+  <img align="center" alt="Python" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="HTML" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Kotlin" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
+</p>
 
-    
-  
-  </div>
-  
-  <!-- Skills: Tools & Frameworks -->
-  <div style="flex-basis: 48%;">
-    <h3>Tools & Frameworks</h3>
-    <img align="center" alt="Spring Boot" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
-    <img align="center" alt="GIT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-    <img align="center" alt="Android Studio" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg">
-    <img align="center" alt="IntelliJ IDEA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg"
-      <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">>
+---
 
+### 🛠️ Tools & Frameworks
+<p>
+  <img align="center" alt="Git" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img align="center" alt="Android Studio" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg">
+  <img align="center" alt="VSCode" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
 
+  <!-- Playwright -->
+  <img align="center" alt="Playwright" height="40" src="https://playwright.dev/img/playwright-logo.svg">
 
-  </div>
-  
+  <!-- Pandas -->
+  <img align="center" alt="Pandas" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg">
+</p>
 
+<p>
+  <!-- Antigravity (badge estilizada já que não tem ícone oficial) -->
+  <img src="https://img.shields.io/badge/Antigravity-000000?style=for-the-badge&logo=python&logoColor=white">
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Ruandws&show_icons=true&theme=tokyonight"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruandws&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 🔥 Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Ruandws&theme=tokyonight&hide_border=false"/>
+</p>
+
+---
+
+## 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ruandws&theme=tokyo-night"/>
+</p>
